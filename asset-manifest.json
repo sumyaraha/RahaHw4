@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sumyaraha/RahaHw4.git/static/css/main.5f535b6b.css",
+    "main.js": "/sumyaraha/RahaHw4.git/static/js/main.282396cb.js",
+    "static/js/787.e062527c.chunk.js": "/sumyaraha/RahaHw4.git/static/js/787.e062527c.chunk.js",
+    "index.html": "/sumyaraha/RahaHw4.git/index.html",
+    "main.5f535b6b.css.map": "/sumyaraha/RahaHw4.git/static/css/main.5f535b6b.css.map",
+    "main.282396cb.js.map": "/sumyaraha/RahaHw4.git/static/js/main.282396cb.js.map",
+    "787.e062527c.chunk.js.map": "/sumyaraha/RahaHw4.git/static/js/787.e062527c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f535b6b.css",
+    "static/js/main.282396cb.js"
+  ]
+}
